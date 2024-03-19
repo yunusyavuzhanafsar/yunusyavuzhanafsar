@@ -6,8 +6,8 @@
 - 📫 How to reach me **yunusyavuzhanafsar@gmail.com**
 
 <h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram">
+<p align="left"><a href="https://instagram.com/yavuzbeyc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
+
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 
 
