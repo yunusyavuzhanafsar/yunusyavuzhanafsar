@@ -7,9 +7,8 @@
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yunus-yavuzhan-afşar-8aa6a5243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-yavuzhan-afşar-8aa6a5243" height="30" width="40" /></a>
-<a href="https://instagram.com/yavuzbeyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yavuzbeyc" height="30" width="40" /></a>
-</p>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 
 
 <h3 align="left">Languages and Tools:</h3>
