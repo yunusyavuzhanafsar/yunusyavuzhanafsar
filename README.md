@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://camo.githubusercontent.com/6e13a411c2a8b3c1914bc32848582bee026db474c579d72e669ef00a5cb7e091/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d46616e7468616c6c" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Fanthall" style="max-width: 100%;float:right">
+<img src="https://camo.githubusercontent.com/6e13a411c2a8b3c1914bc32848582bee026db474c579d72e669ef00a5cb7e091/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d46616e7468616c6c" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Fanthall" style="max-width: 100%; float:right">
 
 <h1 align="center">Hi 👋, I'm Yunus Yavuzhan Afşar</h1>
 <h3 align="center">I'm living in Eskisehir, Turkey.I am a computer engineering student at Eskisehir Technical University.</h3>
