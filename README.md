@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 
 
@@ -6,7 +6,7 @@
 <h3 align="center">I'm living in Eskisehir, Turkey.I am a computer engineering student at Eskisehir Technical University.</h3>
 
 - 📫 How to reach me **yunusyavuzhanafsar@gmail.com**
-- <p dir="auto">🔭 I’m currently working on Front-end Developer </p>
+- <p dir="auto">🔭 I’m currently working on Front-end Development </p>
 
 <h2 align="left">🌐 Socials</h2>
 <p align="left"><a href="https://instagram.com/yavuzbeyc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
