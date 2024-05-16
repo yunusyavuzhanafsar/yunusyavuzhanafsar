@@ -35,7 +35,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusyavuzhanafsar&" alt="yunusyavuzhanafsar" /></p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-canonical-src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
