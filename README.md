@@ -9,7 +9,7 @@
 - <p dir="auto">🔭 I’m currently working on Front-end Development. </p>
 
 <h2 align="left">🌐 Socials</h2>
-<p align="left"><a href="https://instagram.com/yavuzbeyc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
+<p align="left"><a href="https://instagram.com/yavuz.afsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://linkedin.com/in/yunus-yavuzhan-af%C5%9Far-8aa6a5243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
