@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **yunusyavuzhanafsar@gmail.com**
 - <p dir="auto">🔭 I’m currently working on Front-end Development. </p>
+<p>I'm currently learning React.</p>
 
 <h2 align="left">🌐 Socials</h2>
 <p align="left"><a href="https://instagram.com/yavuz.afsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
