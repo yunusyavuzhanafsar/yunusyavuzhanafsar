@@ -48,14 +48,33 @@
   
 
   
+<h2 class="heading-element" dir="auto">📊 GitHub Stats</h2>
+
   
 </p>
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/yunusyavuzhanafsar/ozel/blob/main/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusyavuzhanafsar&theme=material-palenight&hide_border=false" alt="yunusyavuzhanafsar" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/yunusyavuzhanafsar/ozel/blob/main/Bird%20Wing%20Right.png">
+  </a>
+</p>
+ 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusyavuzhanafsar&show_icons=true&locale=en&layout=compact" alt="yunusyavuzhanafsar" /></p>
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/yunusyavuzhanafsar/ozel/blob/main/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusyavuzhanafsar&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
+    <img heigth="160" width="182" src="https://github.com/yunusyavuzhanafsar/ozel/blob/main/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusyavuzhanafsar&" alt="yunusyavuzhanafsar" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
