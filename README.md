@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **yunusyavuzhanafsar@gmail.com**
 - <p dir="auto">🔭 I’m currently working on Front-end Development. </p>
+- <p dir="auto">📚 I’m currently learning React and React Native. </p>
+
 
 
 <h2 align="left">🌐 Socials</h2>
