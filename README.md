@@ -60,13 +60,7 @@
 
   
 </p>
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/yunusyavuzhanafsar/ozel/blob/main/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusyavuzhanafsar&theme=material-palenight&hide_border=false" alt="yunusyavuzhanafsar" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/yunusyavuzhanafsar/ozel/blob/main/Bird%20Wing%20Right.png">
-  </a>
-</p>
+
  
 
  
