@@ -2,9 +2,22 @@
 
 
 <div align="center">
- <a href="https://github.com/yunusyavuzhanafsar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Yunus Yavuzhan+Afşar+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+<!--  <a href="https://github.com/yunusyavuzhanafsar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+</a>
+<a href="https://github.com/yunusyavuzhanafsar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+</a> -->
+<a href="https://github.com/yunusyavuzhanafsar" target="_blank">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" 
+    alt="Typing SVG" 
+    style="box-shadow: 0 4px 15px rgba(59, 130, 246, 0.5); border-radius: 10px; padding: 10px;"
+  />
+</a>
+
+
+
 </div>
 <h3 align="center">I'm living in Eskisehir, Turkey. I am a computer engineering student. I study at Eskişehir Technical University.</h3>
 
