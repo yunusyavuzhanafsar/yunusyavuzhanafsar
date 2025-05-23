@@ -6,6 +6,24 @@
     alt="Welcome Banner"
 />
 </p>
+<div align="center">
+<!--  <a href="https://github.com/yunusyavuzhanafsar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+</a>
+<a href="https://github.com/yunusyavuzhanafsar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+</a> -->
+<a href="https://github.com/yunusyavuzhanafsar" target="_blank">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" 
+    alt="Typing SVG" 
+    style="box-shadow: 0 4px 15px rgba(59, 130, 246, 0.5); border-radius: 10px; padding: 10px;"
+  />
+</a>
+
+
+
+</div>
 
 ```yaml
 name: Yunus Yavuzhan Afşar
@@ -37,6 +55,7 @@ hobbies: ["Gaming", "Technology", "Learning", "Design", "Watching tech talks"]
 
 
 
+
 ```
 
 
@@ -45,24 +64,8 @@ hobbies: ["Gaming", "Technology", "Learning", "Design", "Watching tech talks"]
 
 
 
-<div align="center">
-<!--  <a href="https://github.com/yunusyavuzhanafsar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
-</a>
-<a href="https://github.com/yunusyavuzhanafsar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
-</a> -->
-<a href="https://github.com/yunusyavuzhanafsar" target="_blank">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" 
-    alt="Typing SVG" 
-    style="box-shadow: 0 4px 15px rgba(59, 130, 246, 0.5); border-radius: 10px; padding: 10px;"
-  />
-</a>
 
 
-
-</div>
 <!-- <h3 align="center">I'm living in Eskisehir, Turkey. I am a computer engineering student. I study at Eskişehir Technical University.</h3> -->
 
 
@@ -70,13 +73,23 @@ hobbies: ["Gaming", "Technology", "Learning", "Design", "Watching tech talks"]
  <p dir="auto">📚 I’m currently learning React. </p> -->
 
 
-- 📫 How to reach me *yunusyavuzhanafsar@gmail.com*
 <h2 align="left">🌐 Socials</h2>
-<p align="left"><a href="https://instagram.com/yavuz.afsr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/yunus-yavuzhan-af%C5%9Far-8aa6a5243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+<p align="left" style="font-size: 1.1rem;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
+   
+ 
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle; margin-right: 8px;" />
+  
+</p>
+
+<p align="left" style="font-size: 1.1rem; margin-top: 6px;">
+  📫 Reach me at: <a href="mailto:yunusyavuzhanafsar@gmail.com" style="text-decoration:none; color: inherit;"><i>yunusyavuzhanafsar@gmail.com</i></a>
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%" style="max-width: 600px; border-radius: 10px;" />
+</p>
 
 
 
