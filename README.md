@@ -27,11 +27,11 @@
 
 ```yaml
 name: Yunus Yavuzhan Afşar
-located_in: Turkey,Istanbul
+Locations: Pendik, Istanbul, Turkey & Eskisehir, Turkey
 current_job: Student
 education:
   [
-    "Eskisehir Techin",
+    "Eskisehir Technical University, Department of Computer Engineering",
     "Currently pursuing undergraduate studies",
   ]
 company: Open to Internship Opportunities
@@ -40,8 +40,7 @@ fields_of_interests:
   [
     "Web Development",
     "UI/UX Design",
-    "Mobile Development"
-    
+    "Mobile Application Development"
   ]
 technical_background:
   [
@@ -51,7 +50,7 @@ technical_background:
   ]
 currently_learning: ["React", "React Native"]
 2025 Goals: ["Complete 10+ real-world projects", "Participate in more bootcamps",]
-hobbies: ["Gaming", "Technology", "Learning", "Design", "Watching tech talks"]
+hobbies: ["Gaming", "Technology", "Learning", "E-Sports", "Watching tech talks"]
 
 
 
@@ -76,20 +75,39 @@ hobbies: ["Gaming", "Technology", "Learning", "Design", "Watching tech talks"]
 <h2 align="left">🌐 Socials</h2>
 
 <p align="left" style="font-size: 1.1rem;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
-   
- 
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle; margin-right: 8px;" />
-  
+  <a href="https://www.linkedin.com/in/yyavuzhanafsar/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="vertical-align: middle; margin-right: 8px; border: none;"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
+    <img
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"
+      alt="Instagram"
+      style="vertical-align: middle; margin-right: 8px; border: none;"
+    />
+  </a>
 </p>
 
 <p align="left" style="font-size: 1.1rem; margin-top: 6px;">
-  📫 Reach me at: <a href="mailto:yunusyavuzhanafsar@gmail.com" style="text-decoration:none; color: inherit;"><i>yunusyavuzhanafsar@gmail.com</i></a>
+  📫 Reach me at:
+  <a href="mailto:yunusyavuzhanafsar@gmail.com" style="text-decoration:none; color: inherit;">
+    <i>yunusyavuzhanafsar@gmail.com</i>
+  </a>
 </p>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%" style="max-width: 600px; border-radius: 10px;" />
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    alt="Coding Animation"
+    width="100%"
+    style="max-width: 600px; border-radius: 10px;"
+  />
 </p>
+
 
 
 
