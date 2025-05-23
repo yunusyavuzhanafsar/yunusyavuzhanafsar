@@ -32,7 +32,7 @@ current_job: Student
 education:
   [
     "Eskişehir Technical University, Department of Computer Engineering",
-    "Currently pursuing undergraduate studies",
+    "Currently pursuing an undergraduate degree",
   ]
 company: Open to Internship Opportunities
 
@@ -46,11 +46,11 @@ technical_background:
   [
     "Intern - Mergen Yazılım (Frontend Developer )",
     "Intern - Eskişehir Büyüksehir Bilgi Islem Daire Baskanlıgı (Software Engineer)",
-    "Participant - Cloud Computing (Türk Telekom Bootcamp)",
+    "Participant - Cloud Computing Bootcamp (organized by Türk Telekom)",
   ]
 currently_learning: ["React", "React Native"]
-2025 Goals: ["Complete 10+ real-world projects", "Participate in more bootcamps",]
-hobbies: ["Gaming", "Technology", "Learning", "E-Sports", "Watching tech talks"]
+2025 Goals: ["Complete 10+ real-world projects", "Participate in multiple bootcamps"]
+hobbies: ["Gaming", "Technology", "Lifelong Learning", "E-Sports", "Watching tech talks"]
 
 
 
