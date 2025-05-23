@@ -27,11 +27,11 @@
 
 ```yaml
 name: Yunus Yavuzhan Afşar
-Locations: Pendik, Istanbul, Turkey & Eskisehir, Turkey
+Locations: Pendik, Istanbul, Turkey & Eskişehir, Turkey
 current_job: Student
 education:
   [
-    "Eskisehir Technical University, Department of Computer Engineering",
+    "Eskişehir Technical University, Department of Computer Engineering",
     "Currently pursuing undergraduate studies",
   ]
 company: Open to Internship Opportunities
@@ -45,7 +45,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Mergen Yazılım (Frontend Developer )",
-    "Intern - Eskisehir Büyüksehir Bilgi Islem Daire Baskanlıgı (Software Engineer)",
+    "Intern - Eskişehir Büyüksehir Bilgi Islem Daire Baskanlıgı (Software Engineer)",
     "Participant - Cloud Computing (Türk Telekom Bootcamp)",
   ]
 currently_learning: ["React", "React Native"]
