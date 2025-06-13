@@ -20,7 +20,25 @@
     style="box-shadow: 0 4px 15px rgba(59, 130, 246, 0.5); border-radius: 10px; padding: 10px;"
   />
 </a> -->
-<img src="https://camo.githubusercontent.com/e35bd5f03f4eda973fa7f2d145124e12c921ab323e9f7176c0dec7e818ecbcd5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3232266475726174696f6e3d323030302670617573653d3130303026636f6c6f723d4637443131382663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d46726f6e74656e642b446576656c6f7065723b52656163742b2537432b4e6f64652e6a732b2537432b5461696c77696e642b4353533b50617373696f6e6174652b61626f75742b55582f55492b44657369676e3b4f70656e2b536f757263652b436f6e7472696275746f722b2546302539462538452541463b4275696c64696e672b5363616c61626c652b5765622b417070733b4c6966656c6f6e672b4c6561726e65722b2546302539462539332539413b436c65616e2b436f64652b4164766f636174652b2545322539432541383b50726f626c656d2b536f6c7665722b2546302539462541372541413b546563682b456e74687573696173742b2546302539462539322542423b4150492b44657369676e2b2537432b44617461626173652b4f7074696d697a6174696f6e" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2000&amp;pause=1000&amp;color=F7D118&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Frontend+Developer;React+%7C+Node.js+%7C+Tailwind+CSS;Passionate+about+UX/UI+Design;Open+Source+Contributor+%F0%9F%8E%AF;Building+Scalable+Web+Apps;Lifelong+Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%A8;Problem+Solver+%F0%9F%A7%AA;Tech+Enthusiast+%F0%9F%92%BB;API+Design+%7C+Database+Optimization" style="max-width: 100%;">
+<!-- <img src="https://camo.githubusercontent.com/e35bd5f03f4eda973fa7f2d145124e12c921ab323e9f7176c0dec7e818ecbcd5/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3232266475726174696f6e3d323030302670617573653d3130303026636f6c6f723d4637443131382663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d46726f6e74656e642b446576656c6f7065723b52656163742b2537432b4e6f64652e6a732b2537432b5461696c77696e642b4353533b50617373696f6e6174652b61626f75742b55582f55492b44657369676e3b4f70656e2b536f757263652b436f6e7472696275746f722b2546302539462538452541463b4275696c64696e672b5363616c61626c652b5765622b417070733b4c6966656c6f6e672b4c6561726e65722b2546302539462539332539413b436c65616e2b436f64652b4164766f636174652b2545322539432541383b50726f626c656d2b536f6c7665722b2546302539462541372541413b546563682b456e74687573696173742b2546302539462539322542423b4150492b44657369676e2b2537432b44617461626173652b4f7074696d697a6174696f6e" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2000&amp;pause=1000&amp;color=F7D118&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Frontend+Developer;React+%7C+Node.js+%7C+Tailwind+CSS;Passionate+about+UX/UI+Design;Open+Source+Contributor+%F0%9F%8E%AF;Building+Scalable+Web+Apps;Lifelong+Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%A8;Problem+Solver+%F0%9F%A7%AA;Tech+Enthusiast+%F0%9F%92%BB;API+Design+%7C+Database+Optimization" style="max-width: 100%;">
+ -->
+ <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <!-- İlk Yazı: Profil tanıtımı -->
+  <a href="https://github.com/yunusyavuzhanafsar" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" 
+      alt="Typing SVG 1" 
+      style="box-shadow: 0 4px 15px rgba(59, 130, 246, 0.5); border-radius: 10px; padding: 10px;"
+    />
+  </a>
+
+  <!-- İkinci Yazı: Teknik yetenekler -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F7D118&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+Tailwind+CSS;Passionate+about+UX/UI+Design;Open+Source+Contributor+%F0%9F%8E%AF;Building+Scalable+Web+Apps;Lifelong+Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%A8;Problem+Solver+%F0%9F%A7%AA;Tech+Enthusiast+%F0%9F%92%BB;API+Design+%7C+Database+Optimization" 
+    alt="Typing SVG 2" 
+    style="box-shadow: 0 4px 15px rgba(247, 209, 24, 0.5); border-radius: 10px; padding: 10px;"
+  />
+</div>
 
 
 
