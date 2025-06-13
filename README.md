@@ -24,13 +24,13 @@
  -->
  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <!-- İlk Yazı: Profil tanıtımı -->
-  <a href="https://github.com/yunusyavuzhanafsar" target="_blank">
+<!--   <a href="https://github.com/yunusyavuzhanafsar" target="_blank">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Yunus+Yavuzhan+Af%C5%9Far+%E2%9C%A8;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" 
       alt="Typing SVG 1" 
       style="box-shadow: 0 4px 15px rgba(59, 130, 246, 0.5); border-radius: 10px; padding: 10px;"
     />
-  </a>
+  </a> -->
 
   <!-- İkinci Yazı: Teknik yetenekler -->
   <img 
