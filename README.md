@@ -47,13 +47,13 @@
 ```yaml
 name: Yunus Yavuzhan Afşar
 Locations: Pendik, Istanbul, Turkey & Eskişehir, Turkey
-current_job: Student
+current_job: New graduate
 education:
   [
     "Eskişehir Technical University, Department of Computer Engineering",
     "Currently pursuing an undergraduate degree",
   ]
-company: Open to Internship Opportunities
+company: Open to Junior Software Engineer Opportunities
 
 fields_of_interests:
   [
