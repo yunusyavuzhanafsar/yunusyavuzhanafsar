@@ -69,7 +69,7 @@ technical_background:
   ]
 currently_learning: ["React", "React Native"]
 2025 Goals: ["Complete 10+ real-world projects", "Participate in multiple bootcamps"]
-hobbies: ["Gaming & E-Sports 🎮🏆", "Exploring new technologies 🌐", "Lifelong learning 📚", "Watching tech talks and industry webinars 🎤"]
+hobbies: ["Gaming & E-Sports 🎮🏆", "Exploring new technologies 🌐", "Lifelong learning 📚", "Watching tech talks 🎤"]
 
 
 
