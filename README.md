@@ -64,7 +64,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Mergen Yazılım (Frontend Developer )",
-    "Intern - Eskişehir Büyüksehir Bilgi Islem Daire Baskanlıgı (Software Engineer)",
+    "Intern - Eskişehir Büyüksehir Bilgi Islem Daire Baskanligi (Software Engineer)",
     "Participant - Cloud Computing Bootcamp (organized by Türk Telekom)",
   ]
 currently_learning: ["React", "React Native"]
